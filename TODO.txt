@@ -1,2 +1,12 @@
 1 - Find a way to improve text with watson
   https://www.computerworld.com/article/2949756/ibm-watsons-next-trick-helping-you-write-better.html
+2 - write documentation - README
+
+
+Anotations:
+
+  - Write comands whith ""
+    python scripts/transcription.py "OLK49ZTbmWM&list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK&index=2"
+    zsh doesn't like some special caracteres
+
+  -
